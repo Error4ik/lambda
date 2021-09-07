@@ -1,4 +1,4 @@
-package org.example.task1;
+package org.example.lambda.task1;
 
 import java.util.ArrayList;
 import java.util.Comparator;

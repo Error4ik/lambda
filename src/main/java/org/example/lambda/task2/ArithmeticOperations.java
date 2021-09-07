@@ -1,4 +1,4 @@
-package org.example.task2;
+package org.example.lambda.task2;
 
 @FunctionalInterface
 public interface ArithmeticOperations {

@@ -1,4 +1,4 @@
-package org.example.task1;
+package org.example.lambda.task2;
 
 import java.util.Objects;
 

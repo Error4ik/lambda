@@ -1,4 +1,4 @@
-package org.example.task4;
+package org.example.lambda.task4;
 
 import java.util.Arrays;
 import java.util.List;
